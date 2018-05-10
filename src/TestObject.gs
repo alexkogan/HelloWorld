@@ -1,2 +1,5 @@
-doit Object subclass: 'TestObject' instVarNames: #() inDictionary: UserGlobals
-
+doit 
+^Object subclass: 'TestObject' 
+  instVarNames: #() 
+  inDictionary: UserGlobals
+%
