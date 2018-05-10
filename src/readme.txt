@@ -1,1 +1,1 @@
-this is a source dir
+this is where source code goes
