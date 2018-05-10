@@ -1,5 +1,5 @@
 doit
-Object subclass: 'Feature'
+^Object subclass: 'Feature'
 instVarNames: #()
 inDictionary: UserGlobals
 %
