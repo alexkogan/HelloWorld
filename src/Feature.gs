@@ -3,3 +3,7 @@ doit
 instVarNames: #()
 inDictionary: UserGlobals
 %
+method: Feature
+feature
+  ^'This is a feature'
+%
