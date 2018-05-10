@@ -3,3 +3,7 @@ doit
   instVarNames: #() 
   inDictionary: UserGlobals
 %
+method: TestObject
+testig
+  ^'testing'
+%
